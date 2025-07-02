@@ -1,9 +1,12 @@
-# AmazonClone
-Amazon clone using HTML and CSS
-
 # Amazon Landing Page Clone
 This is a basic clone of the Amazon homepage built using only **HTML** and **CSS**. It mimics the layout and structure of Amazon's front page, including the header, search bar, navigation links, promotional banners, and offer sections.
 
+---
+
+## 🚀 Live Demo
+Check out the deployed site here: [View Live](https://aarohi-sinha.github.io/AmazonClone/)
+
+---
 
 ## 🔧 Technologies Used
 - HTML5
